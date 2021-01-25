@@ -27,16 +27,16 @@ Video link [Aghanim's Labyrinth Trailer](https://www.youtube.com/watch?v=4Qxqctz
 If we have a look at the video the color scheme gradually changes to blue so does our movie barcode, the same principle will be applied to larger videos
 
 
-### License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 
-#### Disclaimer 
+## Disclaimer 
 
 If it isn't abundantly clear, all the images and videos of Dota 2 are property of Dota 2, I don't own nor am I claiming that I do
 
-#### To do items
+## To do items
 
 * Update working to have command line args 
 * Create a standalone python 
