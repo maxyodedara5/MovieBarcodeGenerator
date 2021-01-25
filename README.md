@@ -10,7 +10,7 @@ Following libraries need to be installed
 * numpy
 * cv2
 
-## Working
+## Working logic
 
 Total number of frames are calculated from the video file usually the number of frames is very large as per the video size, we normalize that amount by skipping certain number of frames and try to keep the output image with around 1000 pixels of width and 300 pixels of height
 
@@ -25,4 +25,20 @@ The image below is created after calculating the average from the video of the D
 Video link [Aghanim's Labyrinth Trailer](https://www.youtube.com/watch?v=4QxqctzXQqc&ab_channel=dota2)
 
 If we have a look at the video the color scheme gradually changes to blue so does our movie barcode, the same principle will be applied to larger videos
+
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+#### Disclaimer 
+
+If it isn't abundantly clear, all the images and videos of Dota 2 are property of Dota 2, I don't own nor am I claiming that I do
+
+#### To do items
+
+* Update working to have command line args 
+* Create a standalone python 
+* Speed improvements
 
