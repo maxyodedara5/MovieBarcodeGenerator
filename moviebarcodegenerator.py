@@ -5,7 +5,7 @@ from cv2 import cv2
 import json
 
 #Get video
-cap = cv2.VideoCapture('Dota 2 Aghanim’s Labyrinth Trailer.mp4')
+cap = cv2.VideoCapture('Dota2AghanimsLabyrinthTrailer.mp4')
 
 #calculate frames to get average of 
 framecountvideo = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
